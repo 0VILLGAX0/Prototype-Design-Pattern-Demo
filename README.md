@@ -19,7 +19,7 @@ Avoid depending on the concrete implementation of the original class when workin
 ## Design Diagram
 The design diagram of the prototype pattern is as follows:
 
-![](./image-4.png)
+![](./Prototype-Design-Pattern-img.png)
 
 
 ## How to Implement the Prototype Design Pattern
